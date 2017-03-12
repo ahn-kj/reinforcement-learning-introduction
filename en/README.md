@@ -1,4 +1,5 @@
-# My Awesome Book
+The source of this book is "Reinforcement Learning - Introduction, Author: Richard S. Sutton and Andrew G. Barto".
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Source PDF File follow
 
+[http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf](http://people.inf.elte.hu/lorincz/Files/RL_2006/SuttonBook.pdf)
